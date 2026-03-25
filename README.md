@@ -101,7 +101,7 @@ This is the **only parameter-free theory** that correctly predicts the Bullet Cl
 
 ## 🧮 Interactive Calculator
 
-**[Launch Calculator](tools/calculator.html)** — Explore all predictions interactively
+**[Launch Calculator](https://drlm13.github.io/dark-matter/tools/calculator.html)** — Explore all predictions interactively
 
 Features:
 - 🎯 **Dark Matter Predictions** — All derived quantities with classification badges
